@@ -1,0 +1,1 @@
+javascript:(()=>{const div=document.createElement('div');div.setAttribute("style","background-color:black;cursor:none;");document.body.appendChild(div);div.requestFullscreen();})();
